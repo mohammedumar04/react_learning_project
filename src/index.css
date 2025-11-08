@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+body{
+    background-color: #1e2939;
+}
+
+.btn_sv:active{
+    scale:0.97
+}
+
+/* .Toastify__toast--success {
+  background-color: #03c4fa;
+  color: white;
+  
+} */
+/* .toastify-spinner-color: #616161; */
+
